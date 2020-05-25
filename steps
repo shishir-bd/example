@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=8hrJ4oN1u_8
+
+#create repo
+
+navigate to folder
+git init
+git status
+git add .
+git commit -m "Initital Commit" .
+
+git remote add origin https://github.com/shishir-bd/example.git
+git push -u origin master
+
+
+https://www.youtube.com/watch?v=M5mg0r4ajt4
+
+
+resource link
+
+https://pages.github.com/
+https://medium.com/@macropus/export-your-medium-posts-to-markdown-b5ccc8cb0050
+https://github.com/thepracticaldev/dev.to/issues/730
+https://guides.github.com/features/pages/
